@@ -2,7 +2,7 @@
 This is a school projet for the webapplications course (DVA231) at MDH
 The goal it to build a functional forum in PHP with some ajax.
 
-###Group members: 
+### Group members: 
 
 * André Caldegren             acn15007@student.mdh.se  
 * Anton Roslund                 ard15003@student.mdh.se  
@@ -10,19 +10,19 @@ The goal it to build a functional forum in PHP with some ajax.
 * William Achrenius          was15001@student.mdh.se  
  
  
-##Screenshot
+## Screenshot
 ![alt tag](http://i.imgur.com/KNOGEns.png) 
 
-##Database Structure
+## Database Structure
 ![alt tag](http://i.imgur.com/QRohKue.png)
 
 
 
-##Contract with teacher
+## Contract with teacher
 We want to make a forum website with different sub forums, user groups and user to user messaging.  
 We are aiming for the grade 5. 
 
-###Feature List 
+### Feature List 
 - [x] Message system. 
 - [x] restrict access to subforums to guests
 - [x] Friend system. 
@@ -30,23 +30,23 @@ We are aiming for the grade 5.
 - [x] Users can change password 
 - [x] Signup
  
-###User Types 
-####Administrators 
+### User Types 
+#### Administrators 
 - [x] Can change the rolls of users 
 - [x] Create new / Remove sub forums 
 - [x] Create new / Remove sub forums for categories 
 - [x] Do everything a moderator can 
 - [x] Permanently ban users
 
-####Moderators
+#### Moderators
 - [x] Delete posts and comments
 - [x] Is Moderator for a specific sub forum
 - [x] Temporarily ban users 
 
-#####User 
+##### User 
 - [x] Can create posts 
 - [x] Comment in posts 
 - [x] Report a comment or post 
 
-####Guests (users who are not logged in) 
+#### Guests (users who are not logged in) 
 - [x] View 
